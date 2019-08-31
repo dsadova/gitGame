@@ -1,0 +1,3 @@
+[submodule "MNIST_NNetwork"]
+	path = MNIST_NNetwork
+	url = https://github.com/dsadova/MNIST_NNetwork.git
